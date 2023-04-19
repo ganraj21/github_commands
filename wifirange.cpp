@@ -54,5 +54,3 @@ int main()
         cout << obj.wifiRange(N, S, X) << "\n";
     }
 }
-
-// } Driver Code Ends
